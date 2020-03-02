@@ -1,3 +1,2 @@
 # API-chaining
-Chaining REST APIs in KS
-Chaining SOAP APIs in KS
+Chaining REST and SOAP APIs in KS
