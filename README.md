@@ -1,2 +1,2 @@
 # API-chaining
-Chaining REST API in katalon
+Chaining REST and SOAP APIs in KS
