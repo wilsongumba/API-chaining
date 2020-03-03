@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>APItest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccec441b-1c6b-4057-9539-3530dc80dff8</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>314f8527-6ef7-4ca7-97dc-825975c31cd3</id>
+      <masked>false</masked>
+      <name>response</name>
+   </variable>
+</TestCaseEntity>
